@@ -57,7 +57,7 @@ body::before {
 .arrow {
   position: fixed;
   background-color: transparent;
-  color: #fff;
+  color: white;
   padding: 20px;
   font-size: 30px;
   border: 2px solid orange;
